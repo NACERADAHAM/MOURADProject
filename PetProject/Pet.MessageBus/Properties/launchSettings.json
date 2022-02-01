@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Pet.MessageBus": {
+      "commandName": "Project"
+    }
+  }
+}
